@@ -57,3 +57,13 @@ N.B: Please use this fixed format for calling this API.
 - Reponse : {"sentiment": "positive/negative/neutral"}
 You will receive the sentiment for the text in the response.
 ****
+
+# Project Details
+
+## Input Processing
+- We need to process the data accordingly before feeding into the model.
+
+- *analyze_sentiment()* function in the *sentiment_analyzer.py* does the processing required.
+
+## Model Inferencing
+- use *sentiment_analyzer.py* script for single inference provive the appropiate value in the *analyze_sentiment()* function.
