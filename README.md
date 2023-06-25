@@ -12,8 +12,8 @@
 ****
 # Project Description
 - Server Framework : Flask
-- Deep learning Framework : Transformers
-- Data Manipulation : Numpy, and Scikit-learn
+- Deep learning Framework : Transformers, Pytorch
+- Data Manipulation : Numpy, Scipy
 
 # Project Setup/Installation
 *Please install python for this project in your pc.*
